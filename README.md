@@ -69,7 +69,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zul1u&count_private=true&show_icons=true&theme=nord" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul1u&layout=compact&theme=nord" />
     
-    ![GitHub Snake Light](https://github.com/Zul1u/Zul1u/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-    ![GitHub Snake Dark](https://github.com/Zul1u/Zul1u/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+    ![Snake animation](https://github.com/Zul1u/Zul1u/blob/output/github-contribution-grid-snake.svg)
   </div>
 </div>
