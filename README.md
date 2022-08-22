@@ -66,8 +66,8 @@
   </div>
   <br/>
   <div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Zul1u&count_private=true&show_icons=true&theme=dark" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul1u&layout=compact&theme=dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Zul1u&count_private=true&show_icons=true&theme=dark" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul1u&layout=compact&theme=dark" />
   </div>
 </div>
 
