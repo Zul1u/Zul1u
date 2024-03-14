@@ -19,7 +19,7 @@
 
 <h3>Studying in this moment:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
 
 ##
 
