@@ -4,25 +4,6 @@
 
 ##
 
-<!-- https://github.com/tandpfun/skill-icons -->
-<h3>Main Skills:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,html,css,react)](https://skillicons.dev)
-
-<h3>Other Knowledge:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=jest,py,sass,mysql,mongodb,prisma)](https://skillicons.dev)
-
-<h3>Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,figma)](https://skillicons.dev)
-
-<h3>Studying in this moment:</h3>
-
-
-
-##
-
 <div> 
   <div align="center">
     <a href="https://www.linkedin.com/in/arthur-martins-leal-peixoto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
